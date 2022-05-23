@@ -1,0 +1,57 @@
+{
+  "name": "easy-echo",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Simple HTTP echo server",
+  "main": "./src/index.js",
+  "bin": "./src/index.js",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an-parubets/easy-echo.git"
+  },
+  "keywords": [
+    "echo",
+    "server",
+    "echo server",
+    "http echo server",
+    "echo server npm",
+    "echo server nodejs"
+  ],
+  "author": "an-parubets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/an-parubets/easy-echo/issues"
+  },
+  "homepage": "https://github.com/an-parubets/easy-echo#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-prettier": "^4.0.0",
+    "husky": "^7.0.0",
+    "lint-staged": "^12.4.1",
+    "prettier": "^2.6.2"
+  },
+  "eslintConfig": {
+    "extends": [
+      "airbnb"
+    ],
+    "plugins": [
+      "prettier"
+    ],
+    "rules": {
+      "prettier/prettier": "error"
+    }
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "lint-staged": {
+    "src/**/*.{js,ts,json,md}": [
+      "prettier --write"
+    ]
+  }
+}
