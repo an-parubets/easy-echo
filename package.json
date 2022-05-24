@@ -5,7 +5,11 @@
   "description": "Simple HTTP echo server",
   "main": "./src/index.js",
   "bin": "./src/index.js",
+  "engines": {
+    "node": ">=12"
+  },
   "scripts": {
+    "start": "node ./src/index.js",
     "prepare": "husky install"
   },
   "repository": {
@@ -15,6 +19,7 @@
   "keywords": [
     "echo",
     "server",
+    "request logger",
     "echo server",
     "http echo server",
     "echo server npm",
@@ -53,5 +58,9 @@
     "src/**/*.{js,ts,json,md}": [
       "prettier --write"
     ]
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
   }
 }
