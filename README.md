@@ -1,6 +1,10 @@
 # ease echo server
 
-Will accept any TCP connection and echo back a HTTP response with the body `{ status: 'OK' }`.
+Will accept any TCP connection and echo back a HTTP response with the follow body 
+
+```
+{ status: 'OK' }
+```
 
 ## Example usage
 
