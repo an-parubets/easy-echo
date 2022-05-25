@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/an-parubets/easy-echo/compare/v1.0.0...v1.0.1) (2022-05-25)
+
+
+### Bug Fixes
+
+* add readme description ([e5d5e02](https://github.com/an-parubets/easy-echo/commit/e5d5e0243e39cf2cff3ea374f794a63f51a26819))
+
 # 1.0.0 (2022-05-24)
 
 
