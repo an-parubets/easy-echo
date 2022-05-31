@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/an-parubets/easy-echo/compare/v1.0.2...v1.1.0) (2022-05-31)
+
+
+### Features
+
+* supporting of configuration of port ([75bd72b](https://github.com/an-parubets/easy-echo/commit/75bd72b7a635990d4d57426f8fbc883c9a1c8d19))
+
 ## [1.0.2](https://github.com/an-parubets/easy-echo/compare/v1.0.1...v1.0.2) (2022-05-25)
 
 

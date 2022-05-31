@@ -1,6 +1,6 @@
 {
   "name": "easy-echo",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "private": false,
   "description": "Simple HTTP echo server",
   "main": "./src/index.js",
