@@ -14,14 +14,20 @@
 
 Will accept any TCP connection and echo back a HTTP response with the follow body 
 
-```
-{ status: 'OK' }
+```json
+{ "status": "OK" }
 ```
 
 ## Example usage
 
 Run the command below, after which the server will be started on port `8000`
 
-```
+```shell
 npx easy-echo
+```
+
+If you want to run server on other port, you can use the command like below
+
+```shell
+npx easy-echo --port=8080
 ```
