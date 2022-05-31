@@ -1,9 +1,11 @@
 #! /usr/bin/env node
 
+require('dotenv').config();
+
 const express = require('express');
 const logger = require('./logger');
 
-const PORT = 8000;
+const PORT = process.env.npm_config_port ?? process.env.PORT;
 
 const app = express();
 
