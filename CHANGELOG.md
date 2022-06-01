@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/an-parubets/easy-echo/compare/v1.1.0...v1.1.1) (2022-06-01)
+
+
+### Bug Fixes
+
+* move dotenv into dependencies ([d33a191](https://github.com/an-parubets/easy-echo/commit/d33a191aec627573dfe8f059d321fc1b03a17449))
+
 # [1.1.0](https://github.com/an-parubets/easy-echo/compare/v1.0.2...v1.1.0) (2022-05-31)
 
 
