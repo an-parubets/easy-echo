@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/an-parubets/easy-echo/compare/v1.1.1...v1.1.2) (2022-06-02)
+
+
+### Bug Fixes
+
+* custom port args ([6bed0bd](https://github.com/an-parubets/easy-echo/commit/6bed0bdcce06e8fed754dd2799df65f793150402))
+
 ## [1.1.1](https://github.com/an-parubets/easy-echo/compare/v1.1.0...v1.1.1) (2022-06-01)
 
 
