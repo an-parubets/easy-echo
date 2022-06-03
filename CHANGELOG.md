@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/an-parubets/easy-echo/compare/v1.1.2...v1.1.3) (2022-06-03)
+
+
+### Bug Fixes
+
+* enable cors requests ([c5c873e](https://github.com/an-parubets/easy-echo/commit/c5c873e427abfe9fed3bb8e2edae554dc9934184))
+
 ## [1.1.2](https://github.com/an-parubets/easy-echo/compare/v1.1.1...v1.1.2) (2022-06-02)
 
 
