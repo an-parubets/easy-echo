@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/an-parubets/easy-echo/compare/v1.1.3...v1.1.4) (2023-03-10)
+
+
+### Bug Fixes
+
+* update packages ([587b491](https://github.com/an-parubets/easy-echo/commit/587b49192378a52839515531a2271a4aacda45fc))
+
 ## [1.1.3](https://github.com/an-parubets/easy-echo/compare/v1.1.2...v1.1.3) (2022-06-03)
 
 
